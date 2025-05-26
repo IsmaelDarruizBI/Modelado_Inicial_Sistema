@@ -1,0 +1,20 @@
+FASE 1 – COMPRENSIÓN DEL CONTEXTO (Nivel estratégico)
+Objetivo: Identificar el problema real y los actores clave.
+
+Herramienta clave: System Design Interview
+
+Pasos:
+
+Identificar actores principales (stakeholders internos y externos).
+
+Comprender el proceso actual (“as-is”) y sus dolores.
+
+Detectar restricciones y oportunidades (tecnológicas, organizacionales).
+
+Relevar sistemas actuales y flujos de información.
+
+Formular una hipótesis inicial del problema y objetivos deseados.
+
+Entregable: Documento de diagnóstico + mapa de actores + hipótesis de problema.
+
+Fuente: https://www.youtube.com/watch?v=i7twT3x5yv8 --> VER CONVERSACION CON CHAT GPT EN PROYECTO ARQUITECTURA DE UN SISTEMA DE INFORMACION, LA CONVERSACION DEL RESUMEN VIDEO YOUTUBE Y ENTENDER LOS PASOS EN LA ENTREVISTA CON EL CLIENTE. MAS QUE NADA EL PASO 2 DE DEFINIR LAS APIS.
